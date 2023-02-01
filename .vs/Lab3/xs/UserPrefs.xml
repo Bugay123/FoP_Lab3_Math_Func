@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E015897A-D7D7-4B29-A593-0D859B93D74C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab3__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_6/Program.cs">
+    <Files>
+      <File FileName="Lab3/Program.cs" Line="10" Column="74" />
+      <File FileName="Lab3_2/Program.cs" Line="7" Column="10" />
+      <File FileName="Lab3_3/Program.cs" Line="14" Column="2" />
+      <File FileName="Lab3_4/Program.cs" Line="8" Column="50" />
+      <File FileName="Lab3_5/Program.cs" Line="6" Column="12" />
+      <File FileName="Lab3_6/Program.cs" Line="26" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3" expanded="True">
+            <Node name="Lab3_1" expanded="True" />
+            <Node name="Lab3_2" expanded="True" />
+            <Node name="Lab3_3" expanded="True" />
+            <Node name="Lab3_4" expanded="True" />
+            <Node name="Lab3_5" expanded="True" />
+            <Node name="Lab3_6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab3__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lab3__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Несколько проектов" Name="Несколько проектов" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Lab3__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lab3__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab3__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

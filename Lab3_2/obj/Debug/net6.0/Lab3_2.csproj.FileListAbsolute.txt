@@ -1,0 +1,15 @@
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/bin/Debug/net6.0/Lab3_2
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/bin/Debug/net6.0/Lab3_2.deps.json
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/bin/Debug/net6.0/Lab3_2.runtimeconfig.json
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/bin/Debug/net6.0/Lab3_2.dll
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/bin/Debug/net6.0/Lab3_2.pdb
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.csproj.AssemblyReference.cache
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.AssemblyInfoInputs.cache
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.AssemblyInfo.cs
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.csproj.CoreCompileInputs.cache
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.dll
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/refint/Lab3_2.dll
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.pdb
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/Lab3_2.genruntimeconfig.cache
+/Users/bugay/Desktop/МНТУ/Основи програмування/Projects/Lab3/Lab3_2/obj/Debug/net6.0/ref/Lab3_2.dll
